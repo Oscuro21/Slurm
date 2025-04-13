@@ -1,5 +1,9 @@
-# Slurm
+# Slurm - web
 Slurm Web - Slurm administration web server
+--------------------------------------------
+It allows you to manage a slurm cluster (send, view and cancel jobs) 
+
+Without needing much configuration, it has PAM authentication.
 
 ---------
 1-Install:
